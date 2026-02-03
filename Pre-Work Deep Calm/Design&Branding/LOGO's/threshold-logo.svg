@@ -1,0 +1,31 @@
+<svg
+  width="400"
+  height="100"
+  viewBox="0 0 400 100"
+  xmlns="http://www.w3.org/2000/svg"
+  class="select-none"
+>
+  <!-- Wordmark -->
+  <text
+    x="200"
+    y="50"
+    text-anchor="middle"
+    font-family="system-ui, -apple-system, sans-serif"
+    font-size="32"
+    font-weight="400"
+    letter-spacing="2.5"
+    fill="#1a1a1a"
+  >
+    THRESHOLD
+  </text>
+
+  <!-- Divider line (attached to Threshold) -->
+  <line
+    x1="70"
+    y1="64"
+    x2="330"
+    y2="64"
+    stroke="#1a1a1a"
+    stroke-width="0.6"
+  />
+</svg>

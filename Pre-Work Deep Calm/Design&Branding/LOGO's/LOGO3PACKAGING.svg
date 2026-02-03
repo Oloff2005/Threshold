@@ -1,0 +1,29 @@
+<svg
+  width="400"
+  height="100"
+  viewBox="0 0 400 100"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <text
+    x="200"
+    y="50"
+    text-anchor="middle"
+    font-family="'Libre Caslon Text', serif"
+    font-size="32"
+    font-weight="400"
+    letter-spacing="2.5"
+    fill="#97989d"
+  >
+    THRESHOLD
+  </text>
+
+  <line
+    x1="68"
+    y1="74"
+    x2="332"
+    y2="74"
+    stroke="#97989d"
+    stroke-width="1"
+    shape-rendering="crispEdges"
+  />
+</svg>
