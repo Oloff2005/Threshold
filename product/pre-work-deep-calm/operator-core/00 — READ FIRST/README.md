@@ -11,27 +11,22 @@ If there is ever a conflict between files, folders, opinions, or versions,
 
 ---
 
-## What Belongs in Operating Core
+## System Invariant Compliance
 
-Operating Core contains:
+Pre-Work Deep Calm is governed by the Threshold Cross-Product Invariants
+defined in `/INVARIANTS.md`.
 
-- Product specifications (what the product *is*)
-- Non-negotiables and constraints (what the product *cannot become*)
-- Tasting and evaluation systems
-- Supplier feedback and technical decisions
-- Pilot design, criteria, and success thresholds
-- Go / No-Go logic
-- Operator principles and phase definitions
+All product decisions — including formulation, ritual design, packaging,
+supplier selection, pilot criteria, and iteration — must comply with these
+invariants.
 
-Everything here should be:
-- deliberate
-- defensible
-- decision-oriented
+No product-level consideration overrides system-level constraints.
+Any deviation must be explicitly documented, justified, and approved
+within the Operating Core.
 
 ---
 
-## What Does NOT Belong in Operating Core
-
+## What Belongs in Operating Core
 The following are explicitly **not allowed** in this folder:
 
 - Visual design assets
